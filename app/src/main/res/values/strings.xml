@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">randomizerApp</string>
+    <string name="roll_dice">Roll dice</string>
+    <string name="coin_flipping">Coin flipping</string>
+    <string name="title">Randomizer</string>
+    <string name="TitleButtonRoll">Roll</string>
+    <string name="TitleCoinButton">Flip coin</string>
+</resources>
